@@ -1,0 +1,10 @@
+talks:
+  - name: "Invited Talk at (<b>Shanhgai Jiao Tong University and USC ISI</b>)"
+    time: "9/2019"
+    title: "Learning to transfer knowledge via embedding spaces"
+    category: "current"
+
+  - name: "Invited Talk at (<b>Stanford University</b>)"
+    time: "4/2019"
+    title: "Zero-shot learning using coupled dictionary learning"
+    category: "current"
